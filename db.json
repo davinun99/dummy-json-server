@@ -9,6 +9,6 @@
         { "id": 1, "idProducto": 1, "idCliente": 1, "fecha": "20211118", "total": 1000 }
     ],
     "detalleVentas": [
-        { "idProducto": 1, "idDetalle":1, "cantidad":1 }
+        { "id": 1, "idVenta": 1, "idProducto": 1, "idDetalle":1, "cantidad":1 }
     ]
 }
